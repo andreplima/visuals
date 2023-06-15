@@ -1,0 +1,38 @@
+Visualisation of complex functions
+
+	::youtube
+	[ ] that video explaining 5 types of visualisations for complex functions
+	
+	::github, search all repos for 
+	
+	https://github.com/nschloe/cplot
+	https://github.com/mileswatson/complex-functions
+	https://github.com/endolith/complex_colormap
+	
+	https://github.com/sukumar1612/complex_functions_mapping
+	https://github.com/sukumar1612/complex_functions_mapping
+	
+	
+	https://github.com/mohammed-elkomy/fourier-anim-python/blob/main/core/generate_points.py
+	
+
+Blaschke decomposition + Nevanlinna-Pìck interpolation
+	
+	::github, search all repos for "blaschke"
+	https://github.com/hautiengwu/BlaschkeDecomposition [matlab]
+		https://github.com/LittleGreenYuan/Blaschke-Decomposition-Python- [python]
+	https://github.com/Spiler98/Blaschke [java]
+	https://github.com/HungryAmoeba/BKD [matlab]
+	https://github.com/daviddumas/blaschke [python]
+	https://github.com/adammaj1/dynamical-chessboard-of-Blaschke-product [C]
+	https://github.com/aeshaffer/aeshaffer.github.io [web]
+		https://aeshaffer.github.io/index.html
+		this guy Andrew Schaffer fucking knows it all lol! ::scholar, andrew shaffer blaschke
+	
+	
+	
+	::youtube
+	[ ] that video that mentions an article from the 80s/90s about visualising Blaschke products
+	
+	
+	
